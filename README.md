@@ -28,77 +28,50 @@ Test IT: Базовый уровень
 Коммуникабельность
 Расстановка приоритетов
 
-### 📫 Как связаться со мной :
-
-  <div id="badges">
-    <a href="mailto:dbiryukov51@gmail.com" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" width="40" height="40" alt="Gmail" />
-    </a>
-    <a href="https://t.me/Lerinor" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div>
-
----
+## 📖 Пройденные курсы 
+[🟢Курс «Инженер по тестированию» с нуля](https://sky.pro/courses/programming/qa-engineer#giftpopup) 
 
 
+### 📁 Ссылки на некоторые наработки
+- <a href="https://github.com/Lerinor/MySQL.git" target="_blank">Ссылка на репозиторий SQL запросов</a>
+- <a href="https://github.com/Lerinor/-postman-collections.git" target="_blank">Ссылка  коллекции Postman</a>
+- <a href="https://github.com/Lerinor/Test-documentation.git" target="_blank">Ссылка на тестовую документацию</a>
+- <a href="https://github.com/Test-Dmitry/QA_Automation.git" target="_blank">Ссылка на первый опыт в QA автоматизации</a>
 
-### 📁 Тестовая документация:
+### 🛠 Тестирование веб-приложений
+[![Postman](https://shields.fly.dev/badge/-Postman-CCFF66?style=for-the-badge&logo=postman)](https://github.com/Lerinor/Postman-collections)
+[![SoapUI](https://shields.fly.dev/badge/-SOAPUI-FFFF66?style=for-the-badge&logo=)](https://github.com/Lerinor/SoapUI-Project)
+![Swagger](https://shields.fly.dev/badge/-Swagger-cc3300?style=for-the-badge&logo=Swagger)
+![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-FF6C37?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
-  <img src="https://img.icons8.com/?size=48&id=rWQ6Qj4WSwBn&format=png" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
-  <a href="https://github.com/Lerinor/TestIT" target="_blank" title="Посмотреть коллекцию Test">
-    <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp</a>
-  <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
-</div>
+### 📁Приложения для тестовой документации
+![Jira](https://shields.fly.dev/badge/-Jira-003399?style=for-the-badge&logo=jira)
+[![Test IT](https://img.shields.io/badge/-Test%20IT-8A2BE2?style=for-the-badge&logo=data&logoColor=white)](https://github.com/Lerinor/Test-documentation/tree/main/TasteIT)
+### 💾 Работа с данными
+[![MySQL](https://shields.fly.dev/badge/-MYSQL-66FFFF?style=for-the-badge&logo=mysql)](https://github.com/Lerinor/MySQL.git)
 
----
-
-### 🛠 Тестирование веб-приложений:
-
-<div>
-  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <a href="https://github.com/Lerinor/-postman-collections" target="_blank" title="Посмотреть коллекцию Postman">
-    <img src="https://img.icons8.com/?size=80&id=IoYmHUxgvrFB&format=png" alt="postman" width="40" height="40"/>
-  <a href="https://github.com/Lerinor/SoapUI-Project" target="_blank" title="Посмотреть коллекцию SoapUI">
-    <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="" height="40"/>
-</a>
-</div>
-
----
-
-### 📱 Тестирование мобильных приложений:
-
+### 📱 Тестирование мобильных приложений
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
-  <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
-  <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
 </div>
 
-
----
-
-### 💾 Работа с данными:
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
-</div>
-
----
-
-### ✏️ Работа с кодом:
-
+### Кодовые редакторы
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   
-</div>
+  </div>
+  
 
----
+### Ссылки на социальные сети
+![LinkedIn](https://shields.fly.dev/badge/-LinkedIN-090909?style=for-the-badge&logo=LinkedIN)
+[![telegram](https://shields.fly.dev/badge/-Tg-090909?style=for-the-badge&logo=telegram)](https://t.me/Lerinor)
+[![Email](https://shields.fly.dev/badge/-Email-090909?style=for-the-badge&)](mailto:dbiryukov51@gmail.com)
+
+## Мое резюме 
+- Ознакомиться с резюме можно [здесь](https://github.com/Lerinor/lerinor/blob/main/Резюме_QA_engineer_Тестировщик_Данил_Бирюков_от_28_06_2025_14_34%20(1).pdf) 
+
+
+[![Lerinor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lerinor&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

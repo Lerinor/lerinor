@@ -36,7 +36,7 @@ Test IT: Базовый уровень
 - <a href="https://github.com/Lerinor/MySQL.git" target="_blank">Ссылка на репозиторий SQL запросов</a>
 - <a href="https://github.com/Lerinor/-postman-collections.git" target="_blank">Ссылка  коллекции Postman</a>
 - <a href="https://github.com/Lerinor/Test-documentation.git" target="_blank">Ссылка на тестовую документацию</a>
-- <a href="https://github.com/Test-Dmitry/QA_Automation.git" target="_blank">Ссылка на первый опыт в QA автоматизации</a>
+- <a href="https://github.com/Lerinor/QA_Automation/tree/main/Python" target="_blank">Ссылка на первый опыт в QA автоматизации</a>
 
 ### 🛠 Тестирование веб-приложений
 [![Postman](https://shields.fly.dev/badge/-Postman-CCFF66?style=for-the-badge&logo=postman)](https://github.com/Lerinor/Postman-collections)

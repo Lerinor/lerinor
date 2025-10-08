@@ -50,7 +50,7 @@ Test IT: Базовый уровень
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
   <img src="https://img.icons8.com/?size=48&id=rWQ6Qj4WSwBn&format=png" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
   <a href="https://github.com/Lerinor/TestIT" target="_blank" title="Посмотреть коллекцию Test">
-    <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
+    <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp</a>
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>

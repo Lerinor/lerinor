@@ -62,8 +62,9 @@ Test IT: Базовый уровень
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
   <a href="https://github.com/Lerinor/-postman-collections" target="_blank" title="Посмотреть коллекцию Postman">
     <img src="https://img.icons8.com/?size=80&id=IoYmHUxgvrFB&format=png" alt="postman" width="40" height="40"/>
-  </a>
-  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="" height="40"/>&nbsp
+  <a href="https://github.com/Lerinor/SoapUI-Project" target="_blank" title="Посмотреть коллекцию SoapUI">
+    <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="" height="40"/>
+</a>
 </div>
 
 ---

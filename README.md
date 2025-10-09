@@ -48,8 +48,10 @@ Test IT: Базовый уровень
 ![Jira](https://shields.fly.dev/badge/-Jira-003399?style=for-the-badge&logo=jira)
 [![Test IT](https://img.shields.io/badge/-Test%20IT-8A2BE2?style=for-the-badge&logo=data&logoColor=white)](https://github.com/Lerinor/Test-documentation/tree/main/TasteIT)
 ![Qase.io](https://shields.io/badge/-Qase.io-003399?style=for-the-badge&logo=qase)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ### 💾 Работа с данными
 [![MySQL](https://shields.fly.dev/badge/-MYSQL-66FFFF?style=for-the-badge&logo=mysql)](https://github.com/Lerinor/MySQL.git)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📱 Тестирование мобильных приложений
 <div>

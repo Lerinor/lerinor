@@ -47,6 +47,7 @@ Test IT: Базовый уровень
 ### 📁Приложения для тестовой документации
 ![Jira](https://shields.fly.dev/badge/-Jira-003399?style=for-the-badge&logo=jira)
 [![Test IT](https://img.shields.io/badge/-Test%20IT-8A2BE2?style=for-the-badge&logo=data&logoColor=white)](https://github.com/Lerinor/Test-documentation/tree/main/TasteIT)
+![Qase.io](https://github.com/qavero/qavero/blob/main/icons/Qase.io.png)
 ### 💾 Работа с данными
 [![MySQL](https://shields.fly.dev/badge/-MYSQL-66FFFF?style=for-the-badge&logo=mysql)](https://github.com/Lerinor/MySQL.git)
 

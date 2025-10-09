@@ -67,7 +67,6 @@ Test IT: Базовый уровень
   
 
 ### Ссылки на социальные сети
-![LinkedIn](https://shields.fly.dev/badge/-LinkedIN-090909?style=for-the-badge&logo=LinkedIN)
 [![telegram](https://shields.fly.dev/badge/-Tg-090909?style=for-the-badge&logo=telegram)](https://t.me/Lerinor)
 [![Email](https://shields.fly.dev/badge/-Email-090909?style=for-the-badge&)](mailto:dbiryukov51@gmail.com)
 

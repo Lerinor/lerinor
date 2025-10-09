@@ -72,7 +72,7 @@ Test IT: Базовый уровень
 [![Email](https://shields.fly.dev/badge/-Email-090909?style=for-the-badge&)](mailto:dbiryukov51@gmail.com)
 
 ## Мое резюме 
-- Ознакомиться с резюме можно [здесь](https://github.com/Lerinor/lerinor/blob/main/Резюме_QA_engineer_Тестировщик_Данил_Бирюков_от_28_06_2025_14_34%20(1).pdf) 
+- Ознакомиться с резюме можно [здесь](https://github.com/Lerinor/lerinor/blob/main/Резюме_QA_engineer_Тестировщик_Данил_Бирюков_от_09_10_2025_08_03.pdf) 
 
 
 [![Lerinor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lerinor&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
